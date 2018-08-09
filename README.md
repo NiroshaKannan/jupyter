@@ -1,4 +1,4 @@
-# juyter
+# jupyter
 watch this video we get the know how to use the jupyter https://youtu.be/LrMOrMb8-3s
 
 First install the anaconda open the anaconda prompt type jupyter notebook
